@@ -1,3 +1,8 @@
+package net.minecraft.entidades.mobs.hostiles;
+
+import net.minecraft.entidades.mobs.Mob;
+import net.minecraft.interfaces.Combate;
+
 public abstract class MobHostil extends Mob implements Combate {
     private int fuerza;
 

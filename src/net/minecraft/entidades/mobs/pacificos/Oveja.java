@@ -1,3 +1,5 @@
+package net.minecraft.entidades.mobs.pacificos;
+
 public class Oveja extends MobPacifico {
 
     public Oveja() {

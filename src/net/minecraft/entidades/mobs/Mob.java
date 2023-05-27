@@ -1,3 +1,5 @@
+package net.minecraft.entidades.mobs;
+
 public abstract class Mob {
     protected int salud;
 

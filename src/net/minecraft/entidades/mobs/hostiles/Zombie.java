@@ -1,3 +1,5 @@
+package net.minecraft.entidades.mobs.hostiles;
+
 public class Zombie extends MobHostil {
     public Zombie() {
         super(10, 4);

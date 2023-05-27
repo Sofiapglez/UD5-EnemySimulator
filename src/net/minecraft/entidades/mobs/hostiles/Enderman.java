@@ -1,4 +1,6 @@
-public class Enderman extends MobHostil{
+package net.minecraft.entidades.mobs.hostiles;
+
+public class Enderman extends MobHostil {
     public Enderman() {
         super(14, 0);
     }

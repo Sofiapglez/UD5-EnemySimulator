@@ -1,3 +1,8 @@
+package net.minecraft.entidades.mobs.pacificos;
+
+import net.minecraft.entidades.mobs.Mob;
+import net.minecraft.interfaces.Daño;
+
 public abstract class MobPacifico extends Mob implements Daño {
 
     public MobPacifico(int salud) {
