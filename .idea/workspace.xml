@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4de42d1d-bd65-4d99-a6b8-2a53715ae0f7" name="Changes" comment="" />
+    <list default="true" id="4de42d1d-bd65-4d99-a6b8-2a53715ae0f7" name="Changes" comment="fix(workspace.xml)">
+      <change afterPath="$PROJECT_DIR$/src/Combate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Daño.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -40,6 +44,14 @@
       <option name="presentableId" value="Default" />
       <updated>1685222141047</updated>
     </task>
+    <task id="LOCAL-00001" summary="fix(workspace.xml)">
+      <created>1685225324640</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685225324640</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -52,5 +64,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix(workspace.xml)" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix(workspace.xml)" />
   </component>
 </project>
